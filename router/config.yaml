@@ -1,0 +1,4 @@
+cors:
+  origins:
+    - http://localhost:3000 # Allows any locally-running client to connect
+    - https://studio.apollographql.com # Allows studio to still run
